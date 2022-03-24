@@ -1,4 +1,4 @@
-# node-vuln-multiversion
+# npm-multiple-versions
 
 Node allows multiple versions of the same dependency.
 
